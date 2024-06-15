@@ -8,8 +8,8 @@ from pwnagotchi.ui.view import BLACK
 from threading import Thread
 
 class FanControl(Plugin):
-    __author__ = "Your Name"
-    __version__ = "1.0.0"
+    __author__ = "Kyle Williams"
+    __version__ = "1.0.3"
     __license__ = "GPL3"
     __description__ = "A plugin to control a PWM fan based on CPU temperature and display fan speed and RPM."
 
