@@ -7,6 +7,7 @@ This plugin allows you to control a PWM fan based on the CPU temperature of your
 - Adjusts fan speed based on CPU temperature in 40 increments for granular control.
 - Displays current fan speed as a percentage and RPM on the Pwnagotchi screen.
 - Automatically starts and stops the fan based on temperature thresholds.
+- Toggleable in web plugins web UI
 
 ### Requirements
 
