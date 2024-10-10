@@ -1,3 +1,4 @@
+![20241010_111049](https://github.com/user-attachments/assets/da536585-f544-45d4-b79e-97f155e820b1)
 ### FanControl Plugin for Pwnagotchi
 
 This plugin allows you to control a PWM fan based on the CPU temperature of your Pwnagotchi device. It dynamically adjusts the fan speed to keep the CPU within optimal operating temperatures, providing more granular control with 40 different fan speed increments between 70°F and 140°F. The plugin also displays the current fan speed and RPM on the Pwnagotchi's display.
